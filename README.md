@@ -14,6 +14,7 @@ How do I Run this program?
 2. Run program in given sequence:-
 
 First download the test & train data-set from kaggle [link](http://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data). And please let me know through email if data not found I will provide it by myself. And both `test.csv` & `train.csv` dataset in data folder of repositary. Then run following programs.
+ 
  - **Adjectives.R**
  - **train.R**
  - **Model.R**
