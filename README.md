@@ -38,7 +38,7 @@ applying POS Tagging on the corpus. I found number of adjectives greater than 50
 It is one best approach for text classification.It is probabilistic classification based on bayes
 theorem with independent features.<br>
 (a)  I calculated all classes occurring probability(P(class)).<br>
-(b)  Then I calculated all features probability w.r.t each class.
+(b)  Then I calculated all features probability w.r.t each class.<br>
 
 3.Train:-
 
@@ -47,4 +47,5 @@ Applying above model to test data by selecting each sentence and calculating its
 
 References:-
 [1] B. Pang, L. Lee, and S. Vaithyanathan. Thumbs up?Sentiment classification using machine learnin techniques. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 79-86, 2002. 
+
 [2] R. Feldman. Techniques and applications for sentiment analysis. Published in:  Magazine Communications of the ACM Volume 56 Issue 4, April 2013 Pages 82-89.
